@@ -33,4 +33,4 @@
 
 ### Het doel:
 
- - Uiteindelijk om het interactive te houden komt er een input feature, zodat de gebruiker een timer kan instellen.
+ - Uiteindelijk om het interactive te houden komt er een input feature, zodat de gebruiker een timer en gewenste muziek kan instellen.
