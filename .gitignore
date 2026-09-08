@@ -1,5 +1,6 @@
 # * <- betekend dat git het negeert
 *.php
 *.bat
+/Music
 # ! <- betekend dat git het niet negeert
 !Alarm.bat
