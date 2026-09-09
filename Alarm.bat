@@ -16,9 +16,7 @@ timeout %Sec%
 @REM Your chosen song 
 start %Song%
 @REM 3 reminders both 5 minutes
-timeout 300
-start %Song%
-timeout 300
-start %Song%
-timeout 300
-start %Song%
+for /l %%I in (1,1,3) do ( rem for index in (start,step,end) do ( // code... )
+    timeout 300
+    start %Song%
+)
