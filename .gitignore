@@ -1,6 +1,7 @@
 # * <- betekend dat git het negeert
 *.php
 *.bat
-/Music
+/Music/Speed_Up_(Radio Mix).mp3
 # ! <- betekend dat git het niet negeert
+!/music
 !Alarm.bat
